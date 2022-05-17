@@ -1,0 +1,24 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*feuille de style Cup Cake*/
+h1
+{
+color: red;
+font-size: 3em;
+}
+figure
+{
+    text-align: center;/*Centrez la figure (image) et sa description.*/
+}
+ul
+{
+    border: 3px palevioletred  solid;
+    box-shadow: 8px 8px 8px palevioletred;
+}
+a:hover {
+    font-weight: bold;
+}
+/*Affichez les liens en gras lorsqu'on les survole*/
